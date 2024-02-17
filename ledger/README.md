@@ -1,6 +1,7 @@
 ### Local testing
 
-Local development can be tested against a local hardhat node:
+For local development, start by running a hardhat node.
+This mimics the Ethereum blockchain, allowing us to deploy and test smart contracts.
 
 ```
 npx hardhat node
