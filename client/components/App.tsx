@@ -4,7 +4,11 @@ import './app.scss';
 
 function App() {
   return (
-  <p>HELLO WORLD</p> 
+    <div className='box'>
+      <p>
+        HElLO WORLD
+      </p>
+    </div>
   )
 }
 
